@@ -1,0 +1,35 @@
+body {
+    display: flex; 
+    justify-content: center;
+    font-family: "Sora", sans-serif;
+    font-optical-sizing: auto;
+}
+
+
+div {
+    width: 336px;
+    padding: 16px;
+    border-radius: 10px;
+    box-shadow: 8px 8px 20px 0px rgba(85, 85, 85, 0.08);
+   
+}
+img{
+    height: 152px;
+    border-radius: 10px;  
+}
+h1{
+    font-size: 18px;
+}
+.desing {
+    width: 70px;
+    height: auto;
+    text-align: center;
+    color: #7C19EE;
+    background-color: #E5EAF0;
+    border-radius: 10px;
+    font-size: 15px
+}
+
+.parrafo{
+    font-size: 14px;
+}
